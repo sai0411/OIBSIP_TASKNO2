@@ -1,0 +1,91 @@
+body{
+  color: #121212;
+  font-family: 'Merriweather', COMBAK;
+  font-size: 100%;
+  margin: 0;
+  text-align:center;
+}
+
+h1{
+  text-align: left;
+  color: #121212 ;
+  font-size: 5.625rem;
+  font-family: 'Merriweather',sans-serif;
+  line-height: 2;
+  margin :0 auto 0 auto;
+}
+h1:hover{
+  color: #F3F5D5;
+}
+h2{
+  color: #F7A440;
+  font-size: 50px;
+  font-family: 'Sacramento',sans-serif;
+  line-height: 2;
+  padding: auto 20px;
+  margin: 0;
+}
+h2:hover{
+  color: #FF6600;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #E6E6E6;
+  border-width: 5px;
+}
+p{
+  line-height: 2;
+}
+p:hover{
+  color: #902424;
+}
+ul{
+  margin:0;
+  padding-left: 250px;
+}
+li{
+  margin: 10px 0;
+  text-align: left;
+}
+a{
+  color: #EF9A53;
+  font-family: 'Merriweather',sans-serif;
+}
+a:hover{
+  color:#EF9A53;
+}
+th{
+  font-size: 150%;
+}
+figcaption{
+  text-align: right;
+}
+.Presence-Name{
+  background-color:#B85252 ;
+}
+.About-her{
+  background-color: #FEFCF3;
+  padding: 10px 20px;
+}
+.Awards{
+  background-color: #FEFCF3;
+  padding: 10px 20px;
+}
+.Books{
+  background-color: #FEFCF3;
+  padding: 10px 20px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.Quotes-by-her{
+  background-color: #FEFCF3;
+  padding: 0 200px 0 200px;
+}
+.footer{
+  background-color: #B85252;
+  font-size: 15px;
+  padding: 10px 0;
+}
